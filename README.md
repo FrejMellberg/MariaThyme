@@ -1,5 +1,5 @@
 # MariaThyme
-Multiple remote sensor monitoring through Hibernate backend &amp; Thymeleaf frontend
+### Multiple remote sensor monitoring through Hibernate backend &amp; Thymeleaf frontend
 
 
 This was a group-project at Nackademin to learn more about System Integration.
